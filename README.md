@@ -1,1 +1,1 @@
-# WebDiaryAPI
+# WebDiaryAPIWebDiaryAPI – a REST API built with ASP.NET Core for managing diary entries. It exposes CRUD endpoints for entries, uses Entity Framework Core for data access and is configured via appsettings and dependency injection. The project demonstrates my ability to build and configure ASP.NET Core Web APIs and separate Controllers/Models/Data layers.

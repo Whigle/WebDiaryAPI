@@ -9,6 +9,7 @@ A REST API built with ASP.NET Core for managing diary entries.
 - Clean Controllers / Models / Data layer separation
 - Configured via `appsettings.json` and dependency injection
 - Swagger UI available in development
+- Initial seed data for sample diary entries (for quick testing)
 
 ## Tech Stack
 

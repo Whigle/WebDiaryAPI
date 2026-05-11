@@ -12,7 +12,7 @@ A REST API built with ASP.NET Core for managing diary entries.
 
 ## Tech Stack
 
-- ASP.NET Core Web API (.NET 8)
+- ASP.NET Core Web API (.NET 9)
 - Entity Framework Core
 - SQL Server / LocalDB
 - Swagger / Swashbuckle
